@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-yadav007
-- 👀 I am interested in Solving Real world problems using MAchine learning
+- 👀 I am interested in Solving Real world problems using Machine learning
 - 🌱 I'm currently Learning Tensorflow
 - 💞️ I’m looking to collaboraborate on open sorce projects
 - 📫 How to reach me ...
