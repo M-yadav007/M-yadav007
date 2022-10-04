@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M-yadav007
 - 👀 I am interested in Solving Real world problems using Machine learning
 - 🌱 I'm currently Learning Tensorflow
-- 💞️ I’m looking to collaboraborate on open sorce projects
+- 💞️ I’m looking to collaboraborate on open source projects
 - 📫 How to reach me ...
 - ----Instagram-->https://www.instagram.com/mayank_yad007/
 
